@@ -12,5 +12,5 @@ You can adjust the graphing resolution by the drop down menu on the lower-left c
 # Wanna demo?
 
 I've included some demo files in this repo! Feel free to play around with them. Otherwise, here's a screenshot of what the output looks like!
-
+![Screenshot](https://github.com/sosavle/SMPS-APS-Particle-Visualizer/blob/master/SampleScreenshot.PNG)
 
